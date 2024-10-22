@@ -14,4 +14,4 @@ def list_all(mongo_collection):
     if not doc:
         return []
 
-    return mongo_collection.find()                                  
+    return doc
