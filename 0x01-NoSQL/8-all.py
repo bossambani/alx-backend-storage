@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-import pymongo
 """
 function that lists all documents in a collection
 """
